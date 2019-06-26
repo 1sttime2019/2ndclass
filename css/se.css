@@ -1,0 +1,49 @@
+*{
+	margin: 0px;
+}
+body{
+	font-family: 'Aguafina Script', cursive;
+	background: url(../img/wd.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container{
+	width: 450px;
+	margin: 0px auto;
+	color: blue;
+}
+.singup h1{
+text-align: center;
+	margin: 20px 0px;
+	font-size: 29px;
+
+}
+
+.btn{
+	background: #ffff;
+	color: #ffff;
+	padding: 11px 34px;
+	margin: 8px;
+	display: block;
+	border: none;
+	text-transform: unset;
+	font-size: 15px;
+
+}
+
+.btn2{
+		background: #ffff;
+		color: #ffff;
+		padding: 15px 20px;
+		margin: 0px auto;
+		border: none;
+		text-transform: unset;
+		font-size: 15px;
+	}
+.from-control{
+	width: 90%;
+	margin-bottom: 12px;
+	padding: 10px 15px;
+}
+

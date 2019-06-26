@@ -1,0 +1,70 @@
+*{
+	margin: 0px;
+}
+body{
+	font-family: 'Aguafina Script', cursive;
+	background: url(../img/fun.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.container {
+	
+	width: 450px;
+	margin: 0px auto;
+}
+
+.login-section{.background-color: #ffff;
+	padding: 20px;
+
+
+}
+.login-section img{ width: 120px;
+height: 0px auto;
+display: block;
+margin: 0px auto;
+
+	
+}
+.login-section h3{
+	
+	text-align: center;
+	margin: 20px 0px;
+	font-size: 29px;
+}
+
+
+	.from{
+		margin: 0 auto;
+	}
+
+	.btn{
+		background: darkred;
+		color: #fff;
+		padding: 15px 20px;
+		margin:0px auto;
+		display: block;
+		border: none;
+		text-transform: unset;
+		font-size: 15px;
+		-webkit-transition: 0.8s ease;
+		-moz-transition: 0.8s ease;
+		-o-transition: 0.8s ease;
+
+	}
+	.from-control{
+		width: 90%;
+		padding: 10px 15px;
+		margin-bottom: 12px;
+		
+
+	}
+.btn:hover {
+	cursor: pointer;
+	box-shadow: 2px 4px 3px #ffff;
+}
+
+
+
+
